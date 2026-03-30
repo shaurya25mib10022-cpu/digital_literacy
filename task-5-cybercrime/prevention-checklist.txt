@@ -1,0 +1,18 @@
+Stay Safe Online: Prevention Checklist for College Students
+* [ ] Enable Two-Factor Authentication (2FA): Use app-based authenticators (like Google Authenticator) for your university portals, Gmail, and social media accounts. This adds a second layer of security even if your password is stolen.
+* [ ] Verify URLs and HTTPS: Before entering any credentials, ensure the website address is correct (e.g., google.com not g00gle.com) and looks for the "lock" icon in the address bar.
+* [ ] UPI Safety—PIN is for Sending, Not Receiving: Remember that you never need to enter your UPI PIN to receive money. If someone asks you to enter your PIN to claim a prize or a scholarship, it is 100% a scam.
+* [ ] Check UPI IDs Before Scanning: When using QR codes at local shops or through sent images, always verify the "Verified Name" that appears on your screen before hitting 'Pay.'
+* [ ] Avoid Public Wi-Fi for Sensitive Tasks: Never log into your bank account or university student portal using free public Wi-Fi (like at railway stations or cafes) without a trusted VPN.
+* [ ] Manage App Permissions: Regularly audit your smartphone apps. Revoke "Contacts," "Microphone," or "SMS" permissions for apps that don't reasonably require them to function.
+* [ ] Practice "Social Media Silence": Avoid posting photos of your admit cards, hall tickets, or internship offer letters online, as these contain sensitive data like your Roll Number or DOB that can be used for identity theft.
+* [ ] Use Strong, Unique Passwords: Use a passphrase (e.g., Blue-Sky-Engineering-2026!) instead of simple words. Never reuse the same password for your college ERP and your personal email.
+
+
+How to Report Cybercrime in India
+If you or someone you know falls victim to a digital scam, immediate reporting is the best way to freeze fraudulent transactions.
+1. National Cyber Crime Reporting Portal: Visit [suspicious link removed] to file a formal complaint.
+2. National Helpline: Dial 1930 immediately to report financial fraud (the "Golden Hour" rule is critical for fund recovery).
+
+task-5-cybercrime/
+
